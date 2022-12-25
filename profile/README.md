@@ -4,7 +4,7 @@
 
 ## We’re a WordPress Development Agency that creates bespoke WordPress websites to deliver beautiful & engaging experiences for your customers.
 
-### What advantages we have
+### What advantages we have :
 
 During the development of each project apply uniform project standards 
 - a single project structure, automatic testing, end-to-end testing, checking for WordPress Coding Standards:

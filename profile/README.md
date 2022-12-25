@@ -4,6 +4,15 @@
 
 ## We’re a WordPress Development Agency that creates bespoke WordPress websites to deliver beautiful & engaging experiences for your customers.
 
+### What advantages we have
+
+During the development of each project apply uniform project standards 
+- a single project structure, automatic testing, end-to-end testing, checking for WordPress Coding Standards:
+- automatic testing reduces QA hours for project regression;
+- a unified project structure reduces the process of onboarding programmers for projects within the company;
+- implementation of WordPress Coding Standards makes it possible to maintain a high level of code.
+
+
 ### WordPress Website Solutions we can offer:
 
 - **Enterprise Business Websites** : To enhance and support your brand reputation, your website needs to perform flawlessly, seamlessly, and with dependability. That’s where WordPress comes in. Big brands trust WordPress for its flexible content management abilities, ease of use, and endless integrations with plugins and extensions that allow you to reach your target market through the right promotions.

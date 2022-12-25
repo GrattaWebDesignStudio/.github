@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Gratta Web Design Studio Welcome](profile/gratta-logo.png?raw=true)
+
 ## We’re a WordPress Development Agency that creates bespoke WordPress websites to deliver beautiful & engaging experiences for your customers.
 
 ### WordPress Website Solutions we can offer:
@@ -14,5 +16,3 @@
 - **Performance & Security** : Our holistic WordPress website Performance & Security optimization approach will insure that your web site is fully optimized & secure to deliver the best real user experience. A proven system that makes your web site as fast as it can possibly be – GUARANTEED!
 
 - **Maintenance & Support** : Ongoing web site maintenance is a critical part of keeping your web site healthy. Whether it’s a brochure, membership or ecommerce site – web site maintenance is vital, and there are always opportunities for improvement.
-
-![Gratta Web Design Studio Welcome](profile/gratta-logo.png?raw=true)

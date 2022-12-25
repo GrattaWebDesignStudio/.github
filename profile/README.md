@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Gratta Web Design Studio Welcome](profile/gratta-logo.png?raw=true)
+![Gratta Web Design Studio Welcome](https://raw.githubusercontent.com/GrattaWebDesignStudio/.github/main/profile/gratta-logo.png)
 
 ## We’re a WordPress Development Agency that creates bespoke WordPress websites to deliver beautiful & engaging experiences for your customers.
 
